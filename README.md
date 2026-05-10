@@ -256,31 +256,10 @@ flutter analyze
 - Image caching and optimization
 - Pagination for large datasets
 
-## Future Enhancements
 
-- Real-time collaboration for group trips
-- Integration with more weather services
-- Advanced outfit recommendations with ML
-- Trip cost tracking and budgeting
-- Packing list generation
-- Itinerary suggestions based on location
 
-## Contributing
+## Authors
 
-Contributions are welcome! Please feel free to submit a Pull Request.
+İrem Karaca, Kerem Başol, Begüm Yalçın, Mehmet Özdemir
 
-## License
 
-This project is private and not open for public use.
-
-## Support
-
-For issues and questions, please create an issue in the GitHub repository.
-
-## Author
-
-Created by iremkrc
-
----
-
-**Made with ❤️ for better trip planning and outfit suggestions**
