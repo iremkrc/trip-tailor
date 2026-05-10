@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "153607824453",
+    "firebase_url": "https://triptailor-f15a8-default-rtdb.firebaseio.com",
+    "project_id": "triptailor-f15a8",
+    "storage_bucket": "triptailor-f15a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153607824453:android:d89faac8dc55607c51ef2c",
+        "android_client_info": {
+          "package_name": "com.example.deneme_projefct"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153607824453-i7g5icjvkgh6lfuctkbg1t7ou32t36uc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhN_Uykjkf_MK5P1OE2BcQLs83BBbTKe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153607824453-i7g5icjvkgh6lfuctkbg1t7ou32t36uc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "153607824453-20t120qjrgu8f2hmd1mhc5aj7rejt8n0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.denemeProjefct.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:153607824453:android:ade3541efc188f6e51ef2c",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "153607824453-hnaqjm22g2ll882npjuqns7arppehjol.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project",
+            "certificate_hash": "661ca79e4875e8d09a0cdb83ee1d5b8fbc4d1050"
+          }
+        },
+        {
+          "client_id": "153607824453-i7g5icjvkgh6lfuctkbg1t7ou32t36uc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhN_Uykjkf_MK5P1OE2BcQLs83BBbTKe4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "153607824453-i7g5icjvkgh6lfuctkbg1t7ou32t36uc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "153607824453-20t120qjrgu8f2hmd1mhc5aj7rejt8n0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.denemeProjefct.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
